@@ -15,8 +15,8 @@ params:
   contact:
     address:
       - city: Braganza, 8300, ST 00000
-        country: Country
-        street: Street
+        country: London
+        street: 
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -29,13 +29,13 @@ params:
         title: Phone
   custom_css: []
   custom_js: []
-  description: Your description
+  description: This is la mia descripzione
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Paulagos Ventures
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -53,12 +53,12 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/paulalagosr?tab=repositories
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/paulalagos/
   image: ''
-  name: Your name
+  name: Paulita
   navigation:
     button1:
       - name: Get Started
@@ -76,26 +76,26 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Lagos
+    title: Paula
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: lbs.jpg
+        subtitle: Data Analytics Class
+        title: Risk Return
+        url: blogs/risk_return
+      - image: pasta.jpg
+        subtitle: Acercamientos
+        title: Macros
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: trees.jpg
+        subtitle: In London
+        title: Paisajes
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        title: Other
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
